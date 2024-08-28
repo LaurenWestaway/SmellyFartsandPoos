@@ -1,0 +1,88 @@
+
+body {
+
+    background-color: beige;
+
+
+}
+
+
+h1 {
+
+    font-size: 91px;
+    color: deeppink;
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    border: 3px solid green;
+
+
+
+}
+
+
+h2 {
+
+    font-size: 20px;
+    text-align: center;
+    font-style:initial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+}
+
+
+
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px
+}
+
+
+
+
+header {
+
+    background-color:rgb(255, 169, 137);
+    height: 110px;
+    width: 1070px;
+    
+}
+
+nav {
+
+    background-color: cornflowerblue;
+    height: 175px;
+    width: 1070px;
+    img {
+        display: block;
+        margin: auto;
+      }
+
+
+}
+
+
+
+main {
+
+    background-color:lightblue;
+    height: 80px; 
+    width: 1070px;
+
+
+}
+
+footer {
+
+    background-color: darkseagreen;
+    height: 1500px;
+    width:1070px;
+
+}
+
+
